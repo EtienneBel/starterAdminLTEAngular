@@ -1,4 +1,4 @@
-# StarterAdminLTEAngular
+# angular-adminLTE
 Project resulting from the integration of AdminLTE 3~ with Angular 10
 #### Note : You must have nodeJS and angular-cli installed into your computer.
 
