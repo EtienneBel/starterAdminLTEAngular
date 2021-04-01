@@ -4,7 +4,7 @@ Project resulting from the integration of AdminLTE 3~ with Angular 10
 
 clone project
 
-`git clone https://github.com/EtienneBel/starterAdminLTEAngular`
+`git clone https://github.com/EtienneBel/angular-adminLTE`
 
 then when the repository has been cloned:
 
